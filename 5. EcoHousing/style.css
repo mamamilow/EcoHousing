@@ -1529,6 +1529,8 @@ align-self: stretch;
     .article-container {
       gap: 20px;
       justify-content: center;
+      display: flex;
+      flex-direction: column;
     }
   
     .article-container .box {
